@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b49a55eb-ada8-4668-8a4e-ea0391e51012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/babybites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baconeggsandspam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bossbattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cardtricknew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conformitynew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hothike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akcija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anothercandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cc2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kattis/FastIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kattis/FastIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kattis/baconeggsandspam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kattis/baconeggsandspam.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <command value="joinstrings.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.baconeggsandspam">
+  <component name="RunManager" selected="Application.akcija">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -84,8 +82,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="babybites" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="babybites" />
+    <configuration name="akcija" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="akcija" />
+      <module name="Kattis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anothercandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anothercandies" />
       <module name="Kattis" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -100,24 +106,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bossbattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bossbattle" />
+    <configuration name="cc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc1" />
       <module name="Kattis" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conformitynew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conformitynew" />
-      <module name="Kattis" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hothike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hothike" />
+    <configuration name="cc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc2" />
       <module name="Kattis" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.akcija" />
+        <item itemvalue="Application.anothercandies" />
+        <item itemvalue="Application.cc2" />
+        <item itemvalue="Application.cc1" />
         <item itemvalue="Application.baconeggsandspam" />
-        <item itemvalue="Application.conformitynew" />
-        <item itemvalue="Application.hothike" />
-        <item itemvalue="Application.babybites" />
-        <item itemvalue="Application.bossbattle" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +298,29 @@
           <url>file://$PROJECT_DIR$/src/conformitynew.java</url>
           <line>28</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc2.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cc2.java</url>
+          <line>3</line>
+          <properties class="cc2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
